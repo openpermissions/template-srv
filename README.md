@@ -1,10 +1,17 @@
 The Open Permissions Platform Template Service
 ==============================================
 
-This repository contains a Hello World application which can be used as a reference for Open Permissions PlatformnServices.
+Useful Links
+============
+* [Open Permissions Platform](http://openpermissions.org)
+* [Low level Design](https://github.com/openpermissions/template-srv/blob/master/documents/markdown/low-level-design.md)
+
+Service Overview
+================
+This repository contains a Hello World application which can be used as a reference for Open Permissions Platform Services.
 
 Running locally
-===============
+---------------
 To run the service locally:
 
 ```
@@ -26,7 +33,8 @@ python template/ -t [--test]
 ```
 
 Running tests and generating code coverage
-==========================================
+------------------------------------------
+
 To have a "clean" target from build artifacts:
 
 ```
